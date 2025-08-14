@@ -70,7 +70,7 @@ Color de fondo (ej. #ffffff para blanco, ENTER para blanco): #ffffff
 
 | QR con logo                          | QR sin logo                          |
 | ------------------------------------ | ------------------------------------ |
-| ![QR con logo](ejemplo_con_logo.png) | ![QR sin logo](ejemplo_sin_logo.png) |
+| ![QR con logo](qr_con_logo.png) | ![QR sin logo](qr_sin_logo.png) |
 
 ---
 
