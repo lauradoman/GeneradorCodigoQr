@@ -83,13 +83,8 @@ qr_size=1000         # Tamaño total del QR en píxeles
 recuadro_ratio=0.2   # Proporción del recuadro con respecto al QR
 ```
 
----
 
 ## 📜 Licencia
 
 Este proyecto está licenciado **solo para uso personal y con fines educativos**.  
 No está permitido su uso con fines comerciales sin autorización previa del autor.
-
-
-```
-
